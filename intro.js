@@ -6,5 +6,5 @@ const developer = {
 
 console.log(`🚀 Hello Technified Team!
 My name is ${developer.name}.
-I am ${developer.age} years old, and I❤️  JavaScript ${developer.skill}.
+I am ${developer.age} years old, and I❤️  ${developer.skill}.
 Let's build something great!`);
