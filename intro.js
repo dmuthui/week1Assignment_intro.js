@@ -4,7 +4,7 @@ const developer = {
     skill: "JavaScript"
 };
 
-console.log(`🚀 Hello Technified Team!
+console.log(`🚀 Hello BeTechnified Team!
 My name is ${developer.name}.
 I am ${developer.age} years old, and I❤️  ${developer.skill}.
 Let's build something great!`);
